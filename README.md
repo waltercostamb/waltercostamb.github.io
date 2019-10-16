@@ -1,4 +1,4 @@
-# Personal webpage
+# Personal webpage 
 <br>
 Maria Beatriz Walter Costa
 <br>
@@ -23,8 +23,10 @@ Advisor: Full Prof Dr Marcelo Brígido
 
 **BSc in Biological Sciences**
 University of Brasília, Brazil, 2006 - 2009
+
 <br>
-**Scientific Publications**
+## Scientific Publications
+<br>
 
   Nowick K; **Walter Costa MB**; Höner zu Siederdissen C; Stadler P. Selection Pressures on RNA Sequences and Structures. Evolutionary Bioinformatics, 2019 https://doi.org/10.1177/1176934319871919
 
