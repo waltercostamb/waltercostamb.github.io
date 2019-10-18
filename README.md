@@ -1,6 +1,6 @@
 # Personal information 
   
-Maria Beatriz Walter Costa
+**Maria Beatriz Walter Costa**
 
 ## Summary  
 
