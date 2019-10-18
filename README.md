@@ -2,8 +2,8 @@
 <br>
 Maria Beatriz Walter Costa
 <br>
-<br>
-## Summary
+
+## Summary  
 
 I am a Bioinformatician, who focuses on data analysis and algorithms. My interest is in extracting valuable information from biological data.
 <br>
@@ -14,19 +14,15 @@ I am a Bioinformatician, who focuses on data analysis and algorithms. My interes
 University of Leipzig, Germany, 2013 - 2018
 PhD Dissertation: Adaptive Evolution of Long Non-Coding RNAs
 Science without Borders Program - CNPq (Brazil)
-Advisor: Prof Dr Peter Stadler (Universität Leipzig) 
-Co-advisor: Prof Dr Katja Nowick (Freie Universität Berlin)
 
 **MSc in Molecular Biology**
 University of Brasília, Brazil, 2010 - 2012
-Advisor: Full Prof Dr Marcelo Brígido
 
 **BSc in Biological Sciences**
 University of Brasília, Brazil, 2006 - 2009
 
 <br>
-## Scientific Publications
-<br>
+## Scientific Publications  
 
   Nowick K; **Walter Costa MB**; Höner zu Siederdissen C; Stadler P. Selection Pressures on RNA Sequences and Structures. Evolutionary Bioinformatics, 2019 https://doi.org/10.1177/1176934319871919
 
