@@ -1,14 +1,12 @@
 # Personal webpage 
-<br>
+  
 Maria Beatriz Walter Costa
-<br>
 
 ## Summary  
 
 I am a Bioinformatician, who focuses on data analysis and algorithms. My interest is in extracting valuable information from biological data.
 <br>
 ## Education
-<br>
 
 **Dr. rer. nat. (PhD) in Computer Science**
 University of Leipzig, Germany, 2013 - 2018
@@ -20,10 +18,9 @@ University of Brasília, Brazil, 2010 - 2012
 
 **BSc in Biological Sciences**
 University of Brasília, Brazil, 2006 - 2009
-
-<br>
+  
 ## Scientific Publications  
-
+  
   Nowick K; **Walter Costa MB**; Höner zu Siederdissen C; Stadler P. Selection Pressures on RNA Sequences and Structures. Evolutionary Bioinformatics, 2019 https://doi.org/10.1177/1176934319871919
 
   **Walter Costa MB**; Höner zu Siederdissen C; Stadler P; Nowick K. SSS-Test: A novel test for detecting selection
