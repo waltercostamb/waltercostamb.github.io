@@ -9,9 +9,8 @@ I am a Bioinformatician, who focuses on data analysis and algorithms. My interes
 ## Education
 
 **Dr. rer. nat. (PhD) in Computer Science**
-University of Leipzig, Germany, 2013 - 2018
-PhD Dissertation: Adaptive Evolution of Long Non-Coding RNAs
-Science without Borders Program - CNPq (Brazil)
+University of Leipzig, Germany, 2013 - 2018    
+Science without Borders Program - CNPq (Brazil)  
 
 **MSc in Molecular Biology**
 University of Brasília, Brazil, 2010 - 2012
