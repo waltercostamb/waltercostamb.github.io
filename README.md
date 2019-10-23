@@ -18,7 +18,7 @@ available at: https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-323898
 **MSc in Molecular Biology**
 University of Brasília, Brazil, 2010 - 2012
 
-Thesis:  
+Thesis: Genetic Variability of Anti-DNA Antibodies  
 available at: http://repositorio.unb.br/handle/10482/11352  
 
 **BSc in Biological Sciences**
