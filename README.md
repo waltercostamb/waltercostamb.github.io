@@ -12,8 +12,14 @@ I am a Bioinformatician, who focuses on data analysis and algorithms. My interes
 University of Leipzig, Germany, 2013 - 2018    
 Science without Borders Program - CNPq (Brazil)  
 
+Dissertation: Adaptive Evolution of Long Non-Coding RNAs  
+available at: https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-323898
+
 **MSc in Molecular Biology**
 University of Brasília, Brazil, 2010 - 2012
+
+Thesis:  
+available at: http://repositorio.unb.br/handle/10482/11352  
 
 **BSc in Biological Sciences**
 University of Brasília, Brazil, 2006 - 2009
