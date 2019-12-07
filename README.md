@@ -4,7 +4,7 @@
 
 ## Updates
 
-My personal page is under construction. I am following the tutorial of Jonathan MacGlone: http://jmcglone.com/guides/github-pages/
+My personal page http://waltercostamb.github.io is under construction. I am following the tutorial of Jonathan MacGlone: http://jmcglone.com/guides/github-pages/
 
 ## Summary  
 
