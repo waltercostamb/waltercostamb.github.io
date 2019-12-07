@@ -2,6 +2,10 @@
   
 **Dr Maria Beatriz Walter Costa**
 
+## Updates
+
+My personal page is under construction. I am following the tutorial of Jonathan MacGlone: http://jmcglone.com/guides/github-pages/
+
 ## Summary  
 
 I am a Bioinformatician, who focuses on data analysis and algorithms. My focus is at extracting valuable information from biological data. Some of my interests are: developing scripts for specific tasks, organizing results, writing high quality reports in LaTex and optimizing work tasks.  
