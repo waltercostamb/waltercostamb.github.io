@@ -1,2 +1,4 @@
   name: Maria Beatriz Walter Costa
   markdown: kramdown
+
+  permalink: /blog/:year/:month/:day/:title
