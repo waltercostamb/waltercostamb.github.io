@@ -13,7 +13,7 @@ I am a Bioinformatician, who focuses on data analysis and algorithms. My focus i
 
 LinkedIN: https://www.linkedin.com/in/maria-beatriz-walter-costa-349a54155/  
 
-<br>  
+ 
 
 
 ## Education
