@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Becoming a Bioinformatician"
-date: 2019-12-30
+date: 2019-12-07
 ---
 
 Hi, welcome to my blog! I am a swiss-brazilian scientist who studied biology in the bachelors and moved on to bioinformatics during the Masters and PhD. I work nowadays with theoretical biology and data analysis. 
