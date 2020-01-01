@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Book review: Statistik für Psychologen und Sozialwissenschaftler"
+date: 2020-01-01
+---
+
+<a href="https://www.goodreads.com/book/show/42365279-statistik-f-r-psychologen-und-sozialwissenschaftler" style="float: left; padding-right: 20px"><img border="0" alt="Statistik für Psychologen und Sozialwissenschaftler: Grundlagen und Umsetzung mit SPSS und R (Pearson Studium - Psychologie)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539697280l/42365279._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/42365279-statistik-f-r-psychologen-und-sozialwissenschaftler">Statistik für Psychologen und Sozialwissenschaftler: Grundlagen und Umsetzung mit SPSS und R</a> by <a href="https://www.goodreads.com/author/show/851612.Markus_B_hner">Markus Bühner</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/3016629529">5 of 5 stars</a><br /><br />
+Dieses Buch wurde mir in einem Statistikkurs empfohlen und ich wurde positiv überrascht. Es ist für Geisteswissenschaftler gedacht, aber auch für Biologie oder Medizin gut geeignet. Es enthält die Grundlagen klassischer Statistik und auch Umsetzung in SPSS und R. Es ist sehr umfassend und hat lange Erklärungen, deswegen ist es nicht für oberflächliches Lernen geeignet. Die Theorie ist schwer und komplex und die Autoren beschreiben alle Formeln im Detail, so dass man sie richtig versteht. Ich bevorzuge detailierte Texte, da ich den Inhalt richtig lernen will. Für Menschen die einfach die Methode einsetzen möchten, ohne tief in die Theorie zu gehen, würde ich vielleicht ein anderes Buch für SPSS oder R empfehlen. <br /><br />Nach der Theorie kommt die praktische Anwendung für jeden Teil, in SPSS und sogar in R, was einfacher ist, da man die Methoden direkt einsetzen kann. Die Probleme sind für Psychologie übliche und die Codebeispiele sind gut geschrieben. Man kann ihnen gut folgen.<br /><br />Das Buch passt gut zu meinen Bedürfnissen, da ich in der Data Analysis aktiv bin. Zuerst muss ich passende Methode für verschiedene biologische Probleme wählen, und danach die richtigen Befehle in R nutzen. Ich konnte die Beispiele des Buches einfach für meine Daten umarbeiten.<br /><br />Ich werde das Buch als Referenz benutzen.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/69612111-maria-beatriz">View all my reviews</a>
