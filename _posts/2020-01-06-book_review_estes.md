@@ -17,7 +17,7 @@ improve our knowledge about ourselves. Female (and male) scientists rely almost 
 very limited if we did not listen to our bodies and intuitions as well. This book talks about reconnecting with our wild women,
 our feelings and intuition, which is essentially taking care of our mental health!
 
-<p id="footnote-1">[1] [Stem graduates](https://www.stemgraduates.co.uk/women-in-stem)</p>
+<p id="footnote-1">[1] <a href="https://www.stemgraduates.co.uk/women-in-stem">Stem graduates</a></p>
 <p id="footnote-2">[2] [Forbed advice for women in STEM](https://www.forbes.com/sites/moiraforbes/2019/03/29/advice-for-the-next-generation-of-women-in-stem/#406a0f465d7f)</p>
 <p id="footnote-3">[3] [Meninas na computacao](https://www.agenciabrasilia.df.gov.br/2019/09/20/meninas-e-ciencia-organizacoes-suecas-e-gdf-estimulam-aprendizado/)</p>
 
