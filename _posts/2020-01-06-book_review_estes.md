@@ -17,9 +17,9 @@ improve our knowledge about ourselves. Female (and male) scientists rely almost 
 very limited if we did not listen to our bodies and intuitions as well. This book talks about reconnecting with our wild women,
 our feelings and intuition, which is essentially taking care of our mental health!
 
-<p id="footnote-1">[1] <a href="https://www.stemgraduates.co.uk/women-in-stem">Stem graduates</a></p>
-<p id="footnote-2">[2] [Forbed advice for women in STEM](https://www.forbes.com/sites/moiraforbes/2019/03/29/advice-for-the-next-generation-of-women-in-stem/#406a0f465d7f)</p>
-<p id="footnote-3">[3] [Meninas na computacao](https://www.agenciabrasilia.df.gov.br/2019/09/20/meninas-e-ciencia-organizacoes-suecas-e-gdf-estimulam-aprendizado/)</p>
+<p id="footnote-1">[1] <a href="https://www.stemgraduates.co.uk/women-in-stem">stemgraduates.uk</a></p>
+<p id="footnote-2">[2] <a href="https://www.forbes.com/sites/moiraforbes/2019/03/29/advice-for-the-next-generation-of-women-in-stem/#406a0f465d7f">Forbes advice for women in STEM</a></p>
+<p id="footnote-3">[3] <a href="https://www.agenciabrasilia.df.gov.br/2019/09/20/meninas-e-ciencia-organizacoes-suecas-e-gdf-estimulam-aprendizado/">Meninas na ciencia - Portugues</a></p>
 
 <a href="https://www.goodreads.com/book/show/2344328.Mulheres_que_Correm_com_os_Lobos" style="float: left; padding-right: 20px"><img border="0" alt="Mulheres que Correm com os Lobos" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300409481l/2344328._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/2344328.Mulheres_que_Correm_com_os_Lobos">Mulheres que Correm com os Lobos</a> by <a href="https://www.goodreads.com/author/show/901977.Clarissa_Pinkola_Est_s">Clarissa Pinkola Estés</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2151197158">5 of 5 stars</a><br /><br />
