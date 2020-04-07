@@ -58,7 +58,7 @@ For the statistics course I studied criminal data from the USA from 1975 to 2014
 [R script](https://github.com/waltercostamb/Statistical_analysis_crime_USA/blob/master/analysis_crime_USA.r), which I prefer for statistical 
 analysis. You could do this in python without a problem. Python notebooks are great, especially for learning.
 
-I recommend this books for learning data science with python:
+I recommend the following book for learning data science with python:
   
   - ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas, who very
   generously put his book online for free. I have the hard copy in german, so a translation is available for german speakers. 
