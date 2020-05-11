@@ -8,7 +8,7 @@ I just finished a wonderful book and decided to post a review on this blog, even
 I still think it is relevant to post it here, since "Women who run with the wolves" is a very important book about the
 psychology of women. Being a woman on a STEM field is challenging <a href="#footnote-1">[1]</a> 
 <a href="#footnote-2">[2]</a> <a href="#footnote-3">[3]</a> and I find it very useful to talk about that and discuss ways to overcome challenges. To survive the grad studies and 
-strive in STEM, it is paramount to connect with successful people who can support and mentor you, especially in the case of 
+thrive in STEM, it is paramount to connect with successful people who can support and mentor you, especially in the case of 
 women, people of colour or anyone who belongs to a minority group. 
 
 It is also incredibly important to devote time to yourself, cultivate hobbies that make you happy and take very good care 
