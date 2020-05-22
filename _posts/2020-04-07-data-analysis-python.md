@@ -18,7 +18,7 @@ is biology. Although I see a lot of generalist approaches on posts about data sc
 to being fullfilled and competent. Choose the area you want to focus and pursue this goal. 
 Some options of specializations are: biology, medicine, finance, etc. Although the methods overlap, domain knowledge is key.
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/data_science.jpg?raw=true" width="250" height="210" />  
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/data_science.jpg?raw=true" width="450" height="410" />  
 
 Data science. Credit: [Michael Barber](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
 
@@ -31,15 +31,15 @@ this is not my area of expertise, so I would advise you to talk to a specialist 
 
 I did this [big data and statistik](https://www.alfatraining.de/gefoerderte-weiterbildung/berlinmitte/stadt/berlin/kurs/statistik/N/0/0/kombi/statistik-und-big-data/) 
 course from alfatraining (in German), which I found very informative. Summarizing the content of this course:
-
+  
   - Basic statistics:  
-      - measure theorie (population, sample, types of samples, measurement, scaling)  
-      - Univariate statistics (distributions, etc.)  
-      - Bivariate statistics  
-      - Visualization  
-      - Comparison of two distributions with statistical tests (parametric and non-parametric tests)  
-      - Comparison of more than two distributions  
-      
+    - measure theorie (population, sample, types of samples, measurement, scaling)  
+    - Univariate statistics (distributions, etc.)  
+    - Bivariate statistics  
+    - Visualization  
+    - Comparison of two distributions with statistical tests (parametric and non-parametric tests)  
+    - Comparison of more than two distributions  
+  
   - Big data  
     - What is big data?  
     - Programming logic (data structures, loops, logic statements, etc.)  
