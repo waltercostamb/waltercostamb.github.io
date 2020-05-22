@@ -18,7 +18,7 @@ is biology. Although I see a lot of generalist approaches on posts about data sc
 to being fullfilled and competent. Choose the area you want to focus and pursue this goal. 
 Some options of specializations are: biology, medicine, finance, etc. Although the methods overlap, domain knowledge is key.
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/data_science.jpg" width="250" height="210" /></img>  
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/data_science.jpg" width="250" height="210" />  
 
 Data science. Credit: [Michael Barber](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
 
