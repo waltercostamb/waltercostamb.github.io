@@ -26,7 +26,7 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   profissionais de áreas diferentes, mas afins, como biólogos computacionais ou teóricos, agrônomos, engenheiros florestais,
   cientistas ou engenheiros da computação, estatísticos, matemáticos e físicos, entre outros.
   
-  - Para que serve essa Bioinformática?
+  - Para que serve Bioinformática?
   
       Essa ciência é fundamental atualmente. Com o desenvolvimento e barateanento de tecnologias de sequenciamento, a quantidade
   de dados biológicos disponível é absurda. Esses dados não pode ser analisados de formas tradicionais, e requerem técnicas
@@ -35,8 +35,7 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   
   - Por que Bioinformática é importante?  
   
-      Com um exemplo extremamente atual, temos a pandemia de COVID-19 (Coronavírus). Sem o sequenciamento rápido de genoma e sua
-  análise, teria sido extremamente difícil e demorado entender como o vírus funciona, o que é fundamental para seu combate
+      Com um exemplo extremamente atual, temos a pandemia de COVID-19 (Coronavírus). Sem o sequenciamento rápido de genoma e sua análise, teria sido extremamente difícil e demorado entender como o vírus funciona, o que é fundamental para seu combate
   e controle. A Bioinformática em essência oferece suporte para biólogos e médicos, como no caso do coronavírus, e também
   para outras áreas, como exemplo, na melhoria de microorganismos para processamento de plantas de interesse comercial.
   
