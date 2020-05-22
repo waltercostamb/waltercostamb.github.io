@@ -62,7 +62,7 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   (como Engenharia da Computação ou até mesmo Estatística ou Matemática). Depois desse início no Bacharelado, você precisa se 
   especializar e aprender coisas da outra área. Para isso eu recomendo a Pós-Graduação (Mestrado ou Mestrado e Doutorado).
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/bioinformatica.png?raw=true" height="250" />   
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/bioinformatica.png?raw=true" height="600" />   
 
 **Pesquisa: SSS-test (Teste de Seleção de Estrutura Secundária)**
 
@@ -81,7 +81,7 @@ programa da comunidade científica mundial capaz de analisar famílias de ncRNAs
 evolutivo correspondente para espécie. Com o SSS-test, analisamos 15 mil famílias de ncRNAs de
 primatas e encontramos um pequeno grupo de 110 ncRNAs com sinais humano-específicos.
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/arvore.png?raw=true"  height="400" /> 
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/arvore.png?raw=true"  height="700" /> 
 
 Como isso é feito? Primeiro, construímos um algoritmo teórico com os seguintes passos:  
 
