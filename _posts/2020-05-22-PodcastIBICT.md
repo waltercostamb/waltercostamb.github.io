@@ -33,7 +33,7 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   
       Essa ciência é fundamental atualmente. Com o desenvolvimento e barateamento de tecnologias de sequenciamento, a quantidade
   de dados biológicos disponível é absurdamente grande. Esses dados não podem mais ser analisados de formas tradicionais, e requerem técnicas
-  robustas de programação e estatística. Em essência, a Bioinformática nos ajuda a melhor compreender qualquer sistema biológico 
+  robustas de programação e estatística. Em essência, a Bioinformática processa e analisa dados biológicos e nos ajuda com isso a compreender melhor qualquer sistema biológico 
   que tenha disponíveis dados computacionais, como sequências de DNA ou proteínas.
   
   - Por que a Bioinformática é importante?  
