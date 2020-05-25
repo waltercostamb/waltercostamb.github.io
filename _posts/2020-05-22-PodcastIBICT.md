@@ -7,49 +7,45 @@ date: 2020-05-22
 Esse post surgiu da colaboração com as pesquisadoras Hetiene Pereira Marques e Joelma Fernanda Silva Carneiro do 
 [Canal Ciência do IBICT](http://www.canalciencia.ibict.br/) (Instituto Brasileiro de Informação em Ciência e Tecnologia). 
 A equipe do Canal Ciência está com um projeto super interessante de divulgação ciêntífica para estudantes de ensino 
-fundamental e médio. Esse projeto consiste num [podcast](https://comunidade.rockcontent.com/o-que-e-podcast/), programa 
-online em forma de áudio, sobre ciência com um convidado cientista.  
+fundamental e médio. Esse projeto consiste num podcast, programa online em forma de áudio, com um convidado cientista.  
 
 Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinformática. Como eu sei que essa não é uma
-área muito conhecida fora da academia, respondi alguns questionamentos básicos sobre Bioinfomática:
+área muito conhecida fora da academia, respondi alguns questionamentos básicos:
 
   - O que é Bioinformática?  
   
       Bioinformática é uma área relativamente nova da ciência, que aplica técnicas de ciência da computação, estatística e 
-  matemática em problemas de natureza biológica.
+  matemática em problemas de natureza biológica, incluindo biologia, agronomia e medicina.
   
   - Quem faz Bioinformática?  
   
       Bioinformática é uma área coloborativa por natureza. Bioinformatas são os profissionais mais tradicionais, que tiveram
-  alguma formação formal (Graduação ou Pós-Graduação). Eles têm conhecimento de nível superior básico tanto em uma ou mais 
-  áreas biológicas quanto em áreas básicas de exatas, como programação e lógica. Também trabalham em Bioinformática
-  profissionais de áreas diferentes, mas afins, como biólogos computacionais ou teóricos, agrônomos, engenheiros florestais,
-  cientistas ou engenheiros da computação, estatísticos, matemáticos e físicos, entre outros.
+  alguma formação formal em Bioinformática (Graduação ou Pós-Graduação). Eles têm conhecimento de nível superior básico tanto em áreas biológicas quanto em áreas de exatas, como programação. Também trabalham em Bioinformática profissionais de áreas diferentes, mas afins, como biólogos computacionais ou teóricos, agrônomos, engenheiros florestais, cientistas ou engenheiros da computação, estatísticos, matemáticos, físicos, entre outros. 
+  
+  A comunicação entre esses
+  profissionais é fundamental para a realização de bons projetos. O Bioinformata estuda constantemente, tanto em livros texto das ciências já citadas quanto em trabalhos recentes de outros grupos de pesquisa em formato de artigos científicos (semelhantes a artigos de jornal). Estudar inglês é fundamental, já que quase todos os artigos científicos importantes são publicados em revistas de língua inglesa. Inglês é a língua oficial da ciência moderna.
+  
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/waltercosta_bioinformatician.JPG?raw=true" height="600" /> 
   
   - Para que serve Bioinformática?
   
       Essa ciência é fundamental atualmente. Com o desenvolvimento e barateanento de tecnologias de sequenciamento, a quantidade
-  de dados biológicos disponível é absurda. Esses dados não pode ser analisados de formas tradicionais, e requerem técnicas
-  robustas como a de programação. Em essência, a Bioinformática nos ajuda a melhor compreender qualquer sistema biológico
-  que tenha disponíveis dados computacionais, como sequências.
+  de dados biológicos disponível é absurdamente grande. Esses dados não podem mais ser analisados de formas tradicionais, e requerem técnicas
+  robustas de programação e estatística. Em essência, a Bioinformática nos ajuda a melhor compreender qualquer sistema biológico 
+  que tenha disponíveis dados computacionais, como sequências de DNA ou proteínas.
   
   - Por que Bioinformática é importante?  
   
-      Com um exemplo extremamente atual, temos a pandemia de COVID-19 (Coronavírus). Sem o sequenciamento rápido de genoma e sua análise, teria sido extremamente difícil e demorado entender como o vírus funciona, o que é fundamental para seu combate
-  e controle. A Bioinformática em essência oferece suporte para biólogos e médicos, como no caso do coronavírus, e também
-  para outras áreas, como exemplo, na melhoria de microorganismos para processamento de plantas de interesse comercial.
+      Com um exemplo extremamente atual, temos a pandemia de COVID-19 (Coronavírus). Sem o sequenciamento rápido de genoma e sua análise, teria sido extremamente difícil e demorado entender como o vírus funciona, o que teria certamente agravado a  situação. A Bioinformática está oferecendo agora um suporte fundamental para médicos, políticos e administradores, de forma que eles possam implementar melhores políticas de contenção e controle. Se você quiser saber mais sobre esse assunto, leia esse artigo que escrevi sobre o [sequenciamento do coronavírus](https://cientistasfeministas.wordpress.com/2020/04/09/brasil-a-frente-no-sequenciamento-e-estudo-do-coronavirus/).
   
   - Quais habilidades pessoais e técnicas é preciso ter para ser um Bioinformata?  
   
       O Bioinformata é curioso e estudioso por natureza. É preciso também gostar de aprender, de colaborar com outras 
-  pessoas e de aceitar as diferenças de outras áreas e de outros pesquisadores. Não é preciso uma habilidade natural 
-  por ciência ou matemática, embora isso ajude. É possível aprender todo o necessário com esforço e persistência. Ter
-  um ou mais mentores é também fundamental, já que seria extremamente difícil aprender essa ciência sozinho. Como comparação,
-  é só imaginar aprender Biologia ou Computação sem um ou mais mentores.
+  pessoas e de aceitar as diferenças de outros pesquisadores e de outras áreas, o que não é sempre fácil. Não é preciso ter uma habilidade natural em ciências ou matemática, embora isso ajude. É possível aprender todo o necessário com esforço e persistência. Ter um ou mais mentores é fundamental, já que seria extremamente difícil aprender essa ciência sozinho. Como comparação, é só imaginar aprender Biologia ou Computação sem um ou mais mentores.
   
   - Onde se pode aprender Bioinformática?  
   
-      Até onde eu sei, não existe ainda nenhum curso superior, Bacharelado, em Bioinformática no Brasil. Existem porém diversos 
+      Até onde eu sei, não existe ainda nenhum curso superior (Bacharelado), em Bioinformática no Brasil. Existem porém diversos 
   cursos de pós-graduação strictu sensu de Mestrado e Doutorado voltados para essa área. Eu por exemplo, estudei 
   Biologia (Bacharelado) na graduação, fiz um projeto de iniciação científica em Bioinformática e depois cursei o Mestrado no
   Laboratório de Bioinformática do
@@ -59,18 +55,15 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   da Computação, dependendo das suas inclinações pessoais. Se como eu, você é apaixonado por entender como a vida funciona,
   foque em Biologia primeiro. Mas se você gosta mais de matemática e lógica, siga primeiro na Ciência da Computação ou similares
   (como Engenharia da Computação ou até mesmo Estatística ou Matemática). Depois desse início no Bacharelado, você precisa se 
-  especializar e aprender coisas da outra área. Para isso eu recomendo a Pós-Graduação (Mestrado ou Mestrado e Doutorado).
+  especializar e aprender coisas da outra área. Para isso eu recomendo a Pós-Graduação em Bioinformática (Mestrado ou Mestrado e Doutorado).
 
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/bioinformatica.png?raw=true" height="600" />   
 
 **Pesquisa: SSS-test (Teste de Seleção de Estrutura Secundária)**
 
-A bioinformática é uma área relativamente nova da ciência, que aplica o imenso poder de
-processamento e análise da ciência da computação diretamente nos problemas existentes em ciências
-biológicas. Como um exemplo bastante interessante, temos uma questão fundamental de biologia
-evolutiva: quais determinantes genéticos nos diferenciam de espécies evolutivamente próximas, como
-os chimpanzés? Para responder a essa pergunta podemos usar técnicas de bioinformática, associando
-biologia e ciência da computação.
+Uma das pesquisas que eu desenvolvi no meu Doutorado foi numa questão fundamental de biologia
+evolutiva: o que nos diferencia de espécies evolutivamente próximas, como
+os chimpanzés.
 
 Mais detalhadamente, devemos estudar famílias de genes de primatas e descobrir quais genes
 tem funções humano-específicas. Genes podem ser classificados em dois grandes grupos: proteínas e
