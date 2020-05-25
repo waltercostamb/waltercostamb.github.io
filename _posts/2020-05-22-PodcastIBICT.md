@@ -21,22 +21,22 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   
   - Quem faz Bioinformática?  
   
-      Bioinformática é uma área coloborativa por natureza. Bioinformatas são os profissionais mais tradicionais, que tiveram
+      Bioinformática é uma área multi-disciplinar por natureza. Bioinformatas são os profissionais mais tradicionais, que tiveram
   alguma formação formal em Bioinformática (Graduação ou Pós-Graduação). Eles têm conhecimento de nível superior básico tanto em áreas biológicas quanto em áreas de exatas, como programação. Também trabalham em Bioinformática profissionais de áreas diferentes, mas afins, como biólogos computacionais ou teóricos, agrônomos, engenheiros florestais, cientistas ou engenheiros da computação, estatísticos, matemáticos, físicos, entre outros. 
   
-      A comunicação entre esses
-  profissionais é fundamental para a realização de bons projetos. O Bioinformata estuda constantemente, tanto em livros texto das ciências já citadas quanto em trabalhos recentes de outros grupos de pesquisa em formato de artigos científicos (semelhantes a artigos de jornal). Estudar inglês é fundamental, já que quase todos os artigos científicos importantes são publicados em revistas de língua inglesa. Inglês é a língua oficial da ciência moderna.
+      A comunicação entre
+  colegas cientistas é fundamental para a realização de bons projetos. O Bioinformata estuda constantemente, tanto em livros texto das ciências já citadas quanto em trabalhos recentes de outros grupos de pesquisa em formato de artigos científicos (semelhantes a artigos de jornal). Estudar inglês é fundamental, já que quase todos os artigos científicos importantes são publicados em revistas de língua inglesa. Inglês é a língua oficial da ciência moderna.
   
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/waltercosta_bioinformatician.JPG?raw=true" height="600" /> 
   
-  - Para que serve Bioinformática?
+  - Para que serve a Bioinformática?
   
-      Essa ciência é fundamental atualmente. Com o desenvolvimento e barateanento de tecnologias de sequenciamento, a quantidade
+      Essa ciência é fundamental atualmente. Com o desenvolvimento e barateamento de tecnologias de sequenciamento, a quantidade
   de dados biológicos disponível é absurdamente grande. Esses dados não podem mais ser analisados de formas tradicionais, e requerem técnicas
   robustas de programação e estatística. Em essência, a Bioinformática nos ajuda a melhor compreender qualquer sistema biológico 
   que tenha disponíveis dados computacionais, como sequências de DNA ou proteínas.
   
-  - Por que Bioinformática é importante?  
+  - Por que a Bioinformática é importante?  
   
       Com um exemplo extremamente atual, temos a pandemia de COVID-19 (Coronavírus). Sem o sequenciamento rápido de genoma e sua análise, teria sido extremamente difícil e demorado entender como o vírus funciona, o que teria certamente agravado a  situação. A Bioinformática está oferecendo agora um suporte fundamental para médicos, políticos e administradores, de forma que eles possam implementar melhores políticas de contenção e controle. Se você quiser saber mais sobre esse assunto, leia esse artigo que escrevi sobre o [sequenciamento do coronavírus](https://cientistasfeministas.wordpress.com/2020/04/09/brasil-a-frente-no-sequenciamento-e-estudo-do-coronavirus/).
   
