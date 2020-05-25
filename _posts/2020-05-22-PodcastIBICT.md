@@ -24,7 +24,7 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
       Bioinformática é uma área coloborativa por natureza. Bioinformatas são os profissionais mais tradicionais, que tiveram
   alguma formação formal em Bioinformática (Graduação ou Pós-Graduação). Eles têm conhecimento de nível superior básico tanto em áreas biológicas quanto em áreas de exatas, como programação. Também trabalham em Bioinformática profissionais de áreas diferentes, mas afins, como biólogos computacionais ou teóricos, agrônomos, engenheiros florestais, cientistas ou engenheiros da computação, estatísticos, matemáticos, físicos, entre outros. 
   
-  A comunicação entre esses
+      A comunicação entre esses
   profissionais é fundamental para a realização de bons projetos. O Bioinformata estuda constantemente, tanto em livros texto das ciências já citadas quanto em trabalhos recentes de outros grupos de pesquisa em formato de artigos científicos (semelhantes a artigos de jornal). Estudar inglês é fundamental, já que quase todos os artigos científicos importantes são publicados em revistas de língua inglesa. Inglês é a língua oficial da ciência moderna.
   
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/waltercosta_bioinformatician.JPG?raw=true" height="600" /> 
