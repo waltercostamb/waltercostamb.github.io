@@ -71,7 +71,7 @@ criatividade e linguagem. Para isso, devemos estudar famílias de genes de prima
 tem funções humano-específicas. Por exemplo, já era conhecido antes da minha pesquisa que a proteína FOXP2 existe
 em humanos e outros primatas, porém, tem mutações humanas que auxilia na habilidade da fala. Outras espécies próximas aos humanos, como chimpanzés ou gorilas não tem habilidade de fala. Eu estudei moléculas (genes) semelhantes à proteína FOXP2. 
 
-<src="https://zap.aeiou.pt/wp-content/uploads/2014/07/1bac38f3a1b89b1d30684b013bad1a41-783x450.jpg?raw=true" />  
+<img border="0" src="https://zap.aeiou.pt/wp-content/uploads/2014/07/1bac38f3a1b89b1d30684b013bad1a41-783x450.jpg?raw=true" />  
 Fonte: William Warby, Flickr
 
 Genes podem ser classificados em dois grandes grupos: proteínas e
