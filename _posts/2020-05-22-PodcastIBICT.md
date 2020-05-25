@@ -17,6 +17,8 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
       Bioinformática é uma área relativamente nova da ciência, que aplica técnicas de ciência da computação, estatística e 
   matemática em problemas de natureza biológica, incluindo biologia, agronomia e medicina.
   
+  <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/bioinformatica.png?raw=true" height="600" />   
+  
   - Quem faz Bioinformática?  
   
       Bioinformática é uma área coloborativa por natureza. Bioinformatas são os profissionais mais tradicionais, que tiveram
@@ -57,39 +59,41 @@ Nesse podcast conversaremos sobre a minha pesquisa dentro do campo da Bioinform�
   (como Engenharia da Computação ou até mesmo Estatística ou Matemática). Depois desse início no Bacharelado, você precisa se 
   especializar e aprender coisas da outra área. Para isso eu recomendo a Pós-Graduação em Bioinformática (Mestrado ou Mestrado e Doutorado).
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/bioinformatica.png?raw=true" height="600" />   
-
 **Pesquisa: SSS-test (Teste de Seleção de Estrutura Secundária)**
 
 Uma das pesquisas que eu desenvolvi no meu Doutorado foi numa questão fundamental de biologia
 evolutiva: o que nos diferencia de espécies evolutivamente próximas, como
 os chimpanzés.
 
-Mais detalhadamente, devemos estudar famílias de genes de primatas e descobrir quais genes
-tem funções humano-específicas. Genes podem ser classificados em dois grandes grupos: proteínas e
-RNAs não codificadores (ncRNAs). No nosso trabalho publicado na revista científica BMC
-Bioinformatics em 2019, apresentamos o SSS-test (test for Selection on Secondary Structure), primeiro
-programa da comunidade científica mundial capaz de analisar famílias de ncRNAs e reportar o grau
-evolutivo correspondente para espécie. Com o SSS-test, analisamos 15 mil famílias de ncRNAs de
-primatas e encontramos um pequeno grupo de 110 ncRNAs com sinais humano-específicos.
+Mais detalhadamente, eu queria descobrir quais moléculas do nosso corpo tem funções humano-específicas, ou seja, 
+funções que não existem da mesma forma em outras espécies. Por exemplo, funções cognitivas, como fala articulada, 
+criatividade e linguagem. Para isso, devemos estudar famílias de genes de primatas e descobrir quais genes
+tem funções humano-específicas. Por exemplo, já era conhecido antes da minha pesquisa que a proteína FOXP2 existe
+em humanos e outros primatas, porém, tem mutações humanas que auxilia na habilidade da fala. Eu estudei moléculas (genes) semelhantes à proteína FOXP2. 
+
+Genes podem ser classificados em dois grandes grupos: proteínas e
+RNAs não codificadores (ncRNAs). No meu trabalho eu foquei nos ncRNAs. Primeiro eu desenvolvi um programa de computador chamado de SSS-test (teste de seleção de estrutura secundária). Esse programa é o primeiro
+programa da comunidade científica mundial capaz de analisar famílias de ncRNAs e reportar seu grau
+evolutivo. Podemos dar ao SSS-test um gene e ele nos diz se esse gene tem funções específicas em humanos. Em outras palavras,
+se esse gene nos diferencia de outros primatas, como o chimpanzé. Eu analisei com o meu programa SSS-test 15 mil genes de
+primatas e encontrei um pequeno grupo de 110 ncRNAs com sinais humano-específicos.
 
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/arvore.png?raw=true"  height="700" /> 
 
-Como isso é feito? Primeiro, construímos um algoritmo teórico com os seguintes passos:  
+Como fiz isso? Primeiro, construí um algoritmo (conjunto de regras) com os seguintes passos:  
 
   - (i) recebe como entrada os genes de ncRNAs;  
     
   - (ii) detecta as diferenças entre as espécies e   
     
-  - (iii) constrói modelos estatísticos de impacto estrutural (com um impacto alto indicando função espécie-específica).  
+  - (iii) constrói modelos estatísticos de funções espécie-específicas.  
     
-Após definirmos esse novo algoritmo, eu o implementei por meio de uma linguagem de programação. Dessa forma, pude traduzir 
-nossas ideias teóricas e fórmulas estatísticas numa linguagem que o computador entende e processa. 
+Depois de definir essas regras, eu usei programação para construir o programa. Dessa forma, pude traduzir 
+minhas ideias teóricas numa linguagem que o computador entende e processa. 
   
-Com o SSS-test, analisamos 15 mil famílias de ncRNAs de primatas e encontramos um pequeno grupo de 110 ncRNAs com sinais 
+Com o programa, analisei 15 mil genes de ncRNAs de primatas e encontrei 110 genes com sinais 
 humano-específicos. Alguns deles estão ativos no nosso cérebro, o que pode levar a descobertas futuras ainda mais 
-intrigantes. Dessa forma nós aumentamos nosso conhecimento sobre o que nos torna diferentes de outras espécies próximas, 
-como os chimpanzés, ou, em outras palavras, o que exatamente nos torna humanos.
+intrigantes. Dessa forma eu consegui aumentar o nosso conhecimento sobre o que nos torna diferentes de outras espécies próximas, ou, em outras palavras, o que exatamente nos torna humanos.
 
 O SSS-test também pode ser usado para estudos evolutivos de outras espécies, tanto de mamíferos, quanto plantas ou fungos. 
 Isso nos ajuda principalmente a entender como as espécies funcionam, o que é fundamental para o desenvolvimento científico e
@@ -97,14 +101,10 @@ Isso nos ajuda principalmente a entender como as espécies funcionam, o que é f
 
 Referências:
 
-Maria Beatriz Walter Costa, Christian Höner zu Siederdissen, Marko Dunjić, Peter Stadler, Katja Nowick. 
-SSS-test: a novel test for detecting positive selection on RNA secondary structure. BMC Bioinformatics 20, 
-151 (2019) https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2711-y
+Maria Beatriz Walter Costa, Christian Höner zu Siederdissen, Marko Dunjić, Peter Stadler e Katja Nowick. 
+[SSS-test: a novel test for detecting positive selection on RNA secondary structure](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2711-y). Publicado na Revista Científica BMC Bioinformatics em 2019.
 
-Katja Nowick, Maria Beatriz Walter Costa, Christian Höner zu Siederdissen, Peter Stadler. Selection Pressures 
-on RNA Sequences and Structures. Evolutionary Bioinformatics Online. (2019)
-https://journals.sagepub.com/doi/10.1177/1176934319871919
+Katja Nowick, Maria Beatriz Walter Costa, Christian Höner zu Siederdissen e Peter Stadler. [Selection Pressures 
+on RNA Sequences and Structures](https://journals.sagepub.com/doi/10.1177/1176934319871919). Publicado na revista científica Evolutionary Bioinformatics em 2019.
 
-Maria Beatriz Walter Costa. Programa: SSS-test. (2019) https://github.com/waltercostamb/SSS-test
-
-
+Maria Beatriz Walter Costa. Programa de computador [SSS-test](https://github.com/waltercostamb/SSS-test). Publicado em 2019.
