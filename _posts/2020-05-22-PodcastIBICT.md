@@ -69,22 +69,22 @@ Mais detalhadamente, eu queria descobrir quais moléculas do nosso corpo tem fun
 funções que não existem da mesma forma em outras espécies. Por exemplo, funções cognitivas, como fala articulada, 
 criatividade e linguagem. Para isso, devemos estudar famílias de genes de primatas e descobrir quais genes
 tem funções humano-específicas. Por exemplo, já era conhecido antes da minha pesquisa que a proteína FOXP2 existe
-em humanos e outros primatas, porém, tem mutações humanas que auxilia na habilidade da fala. Eu estudei moléculas (genes) semelhantes à proteína FOXP2. 
+em humanos e outros primatas, porém, tem mutações humanas que auxilia na habilidade da fala. Outras espécies próximas aos humanos, como chimpanzés ou gorilas não tem habilidade de fala. Eu estudei moléculas (genes) semelhantes à proteína FOXP2. 
 
 Genes podem ser classificados em dois grandes grupos: proteínas e
 RNAs não codificadores (ncRNAs). No meu trabalho eu foquei nos ncRNAs. Primeiro eu desenvolvi um programa de computador chamado de SSS-test (teste de seleção de estrutura secundária). Esse programa é o primeiro
 programa da comunidade científica mundial capaz de analisar famílias de ncRNAs e reportar seu grau
-evolutivo. Podemos dar ao SSS-test um gene e ele nos diz se esse gene tem funções específicas em humanos. Em outras palavras,
-se esse gene nos diferencia de outros primatas, como o chimpanzé. Eu analisei com o meu programa SSS-test 15 mil genes de
-primatas e encontrei um pequeno grupo de 110 ncRNAs com sinais humano-específicos.
+evolutivo. 
+
+Podemos dar ao SSS-test um gene e ele nos diz se esse gene tem funções específicas em humanos. Como um exemplo temos o gene da figura abaixo, que tem uma estrutura específica em humanos. Eu analisei com o meu programa SSS-test 15 mil genes de primatas e encontrei um pequeno grupo de 110 ncRNAs com sinais humano-específicos (um desses genes é esse da figura abaixo).
 
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/arvore.png?raw=true"  height="700" /> 
 
-Como fiz isso? Primeiro, construí um algoritmo (conjunto de regras) com os seguintes passos:  
+Como eu fiz isso? Primeiro, construí um algoritmo (conjunto de regras) com os seguintes passos:  
 
   - (i) recebe como entrada os genes de ncRNAs;  
     
-  - (ii) detecta as diferenças entre as espécies e   
+  - (ii) detecta as diferenças entre as espécies, e;   
     
   - (iii) constrói modelos estatísticos de funções espécie-específicas.  
     
@@ -93,10 +93,13 @@ minhas ideias teóricas numa linguagem que o computador entende e processa. 
   
 Com o programa, analisei 15 mil genes de ncRNAs de primatas e encontrei 110 genes com sinais 
 humano-específicos. Alguns deles estão ativos no nosso cérebro, o que pode levar a descobertas futuras ainda mais 
-intrigantes. Dessa forma eu consegui aumentar o nosso conhecimento sobre o que nos torna diferentes de outras espécies próximas, ou, em outras palavras, o que exatamente nos torna humanos.
+intrigantes sobre o que nos torna humanos. Outros grupos de pesquisa irão usar os conhecimentos que eu gerei nesse projeto para responder a mais perguntas, como por exemplo que funções exatamente são feitas por esses 110 genes.
 
-O SSS-test também pode ser usado para estudos evolutivos de outras espécies, tanto de mamíferos, quanto plantas ou fungos. 
-Isso nos ajuda principalmente a entender como as espécies funcionam, o que é fundamental para o desenvolvimento científico e
+Com esse projeto eu consegui aumentar o nosso conhecimento acerca do que nos define como espécie. Essa é uma pequena contribuição que monta um pedaço desse quebra-cabeças gigante que é "o que nos torna humanos". Esse é um exemplo que mostra como a ciência é colaborativa atualmente.
+
+A minha principal contribuição com esse projeto foi desenvolver o programa SSS-test de análise evolutiva de genes. 
+O meu programa pode ser usado para estudos evolutivos de outras espécies, tanto mamíferos, quanto plantas ou fungos. 
+Isso ajuda outros pesquisadores a entender como as espécies funcionam. Isso é fundamental para o desenvolvimento científico e
 é chamado de ciência básica. 
 
 Referências:
