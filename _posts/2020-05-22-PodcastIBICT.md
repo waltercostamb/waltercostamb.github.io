@@ -4,7 +4,7 @@ title: "Podcast IBICT: Material de Estudo de Pesquisa em Bioinformática"
 date: 2020-05-22
 ---
 
-tempo estimado de leitura: 6 - 8 min
+tempo estimado de leitura: 6 min
 
 Esse post surgiu da colaboração com as pesquisadoras Hetiene Pereira Marques e Joelma Fernanda Silva Carneiro do 
 [Canal Ciência do IBICT](http://www.canalciencia.ibict.br/) (Instituto Brasileiro de Informação em Ciência e Tecnologia). 
