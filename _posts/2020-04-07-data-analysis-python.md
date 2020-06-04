@@ -4,7 +4,7 @@ title: "Learn Data Analysis with Python"
 date: 2020-04-07
 ---
 
-estimated reading time: 9 min
+estimated reading time: 10 min
 
 I have been asked by a friend for directions on learning data analysis with python, so here is a compilation of
 my suggestions. 
