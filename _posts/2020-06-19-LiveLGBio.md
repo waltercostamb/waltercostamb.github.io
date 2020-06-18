@@ -4,9 +4,9 @@ title: "Live LGBio: Pesquisa em Bioinformática: Evolução e Seleção Adaptati
 date: 2020-06-19
 ---
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/chamada_LGBio.jpg?raw=true" width="500" /> 
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/chamada_LGBio.jpg?raw=true" width="600" /> 
 
-Na live do LGBio (Laboratório de Genética e Biodiversidade) de 19/06/2020, apresentarei minha pesquisa em evolução de ncRNAs. Fui convidada pela Professora Mariana Telles 
+Na [live do LGBio](https://www.youtube.com/channel/UCZpqlzBOmV5dVbdROT6MdAQ/featured) (Laboratório de Genética e Biodiversidade) de 19/06/2020, apresentarei minha pesquisa em evolução de ncRNAs. Fui convidada pela Professora Mariana Telles 
 a participar desse ciclo de palestras em Ecologia, Evolução e Conservação da Biodiversidade. No link abaixo, você terá
 acesso à apresentação da live e poderá baixá-la clicando no link de Download à direita.  
 
