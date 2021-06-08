@@ -103,17 +103,19 @@ We have responsibilities as data scientists, especially in current times, exempl
  
  After doing the basic statistics and having acquired a feeling for your data, you have to see if machine learning can be 
  applied for your problem. After making sure machine learning is a good idea, then you can plan your experiments. Carefully 
- choose your variables and start with the most simple methods first, like PCA or linear regression. Afterwards go to logistic
- regression, support vector machines and random forest. Although the more charming method nowadays is neural networks (hello
- [tensor flow](https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/)!), it is only appropriate for problems with lots and lots of training data. 
+ choose your variables and start with the most simple methods first, like PCA or linear regression. Afterwards you could go to 
+ support vector machines and random forest. Although the more charming method nowadays is neural networks (hello
+ [tensor flow](https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/)!), it is only appropriate 
+ for problems with lots and lots of training data. 
  
  Most important of all, don't loose sight of your initial question, start with the basics and be mindful of the consequences
  of making your work available to the public. There are lots of interesting
  data available that you can play with. After reading some chapters, you will start feeling you can already code, so create 
- a small project for yourself. I would stay clear of any sensitive data (like corona) in case you want to make your project public, say in GITHub, but if you want to do it, just keep your project private. 
+ a small project for yourself. I would stay clear of any sensitive data (like COVID-19) in case you want to make your project public, 
+ say in GITHub. However, if you still want to go for something interesting like COVID-19, think about keeping your project private. 
  Create a python notebook and keep track of your progress. I recommend defining a subject you
  like and searching for it on repositories like [kaggle](https://www.kaggle.com/). I found the data for my big data and 
  statistics project in kaggle. It was actually fun and fullfilling doing these small projects.
 
 I hope you enjoyed reading this, and that it was useful for you. If you would like to read more posts like this, feel free to 
-[contact me](https://waltercostamb.github.io/).
+contact me.
