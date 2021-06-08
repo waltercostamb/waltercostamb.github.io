@@ -11,7 +11,7 @@ nesse [link](https://youtu.be/C-wijvsN_dY).
 
 <iframe width="560" height="315" src="https://youtu.be/C-wijvsN_dY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/chamada_BioIN4Girls.jpg?raw=true" width="600" />    
+<img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/chamada_BioIN4Girls.png?raw=true" width="400" />    
 
 Fiquei muito feliz de poder compartilhar o meu trabalho nesse evento inclusivo tão importante e com tantos ouvintes. Espero que venham mais edições do BioIN4Girls
 nos próximos anos.
