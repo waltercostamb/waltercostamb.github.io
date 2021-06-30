@@ -7,8 +7,6 @@ date: 2020-06-19
 
 Fui convidada pela Professora Mariana Telles a participar do II Ciclo de Palestras em Ecologia, Evolução e Conservação da Biodiversidade de 2020 do [LGBio](https://www.even3.com.br/slgbio2020/) (Laboratório de Genética e Biodiversidade). A [live](https://www.youtube.com/channel/UCZpqlzBOmV5dVbdROT6MdAQ/featured) occorreu em 19/06/2020, quando apresentei minha pesquisa em evolução de ncRNAs.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7wC2dL3QadM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
 Foi uma excelente experiência, na qual discutimos aspectos da minha pesquisa e também aspectos de ciência em geral, como a importância da comunicação com pesquisadores de diferentes áreas e também do crescimento das mulheres na ciência.  
 
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/chamada_LGBio.jpg?raw=true" width="600" />  
