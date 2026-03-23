@@ -1,11 +1,73 @@
 ---
 layout: default
-title: Maria Beatriz's Blog
+title: Skills
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<h1>{{ page.title }}</h1>
+
+<h2>Programming</h2>
+<p>
+Python ★★★★★<br>
+R ★★★★☆<br>
+Perl ★★★★☆<br>
+Bash ★★★★☆<br>
+SQL (MySQL) ★★☆☆☆
+</p>
+
+<h2>Workflow & Automation</h2>
+<p>
+Snakemake
+</p>
+
+<h2>Bioinformatics</h2>
+<p>
+Omics analysis, differential expression, mapping, sequence analysis, alignment, NGS analysis, ncRNAs, annotation, genome assembly, machine learning, software development
+</p>
+
+<h2>Infrastructure</h2>
+<p>
+<strong>Cluster Platforms:</strong> Slurm, Sun Grid Engine (SGE)<br>
+<strong>Version Control:</strong> Git, GitHub
+</p>
+
+<h2>Other Tools</h2>
+<p>
+Linux, Jupyter Notebook, LaTeX, Markdown
+</p>
+
+<h2>Profile</h2>
+<p>
+I am experienced in interdisciplinary collaboration, working with researchers from Germany, Brazil, Mexico, Canada, and India. 
+I communicate effectively across scientific domains and cultural backgrounds.
+</p>
+
+<p>
+I have strong language skills, with fluency in Portuguese and English, and advanced proficiency in German and Spanish.
+</p>
+
+<h2>Languages</h2>
+<p>
+<strong>English:</strong> Near-native (C2, Cambridge CPE)<br>
+<strong>Portuguese:</strong> Native (C2)<br>
+<strong>German:</strong> Advanced (C1)<br>
+<strong>Spanish:</strong> Advanced (B2/C1)
+</p>
+
+<h2>Working Style</h2>
+<p>
+I follow a structured and reproducible workflow based on a computational lab book written in LaTeX, combined with version control using Git. 
+This approach enables efficient project tracking, documentation, and reproducibility. Using this system, I completed my PhD dissertation in a highly time-efficient manner.
+</p>
+
+<p>
+You can explore my workflow here: 
+<a href="https://github.com/waltercostamb/Lab-Book">Lab Book in LaTeX</a>.
+</p>
+
+<h2>Additional Notes</h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
