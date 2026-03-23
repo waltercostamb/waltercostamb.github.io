@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Learn Data Analysis with Python"
+title: "Data Analysis in Python"
 date: 2020-04-07
 ---
 
 estimated reading time: 10 min
 
-I have been asked by a friend for directions on learning data analysis with python, so here is a compilation of
-my suggestions. 
+This guide provides a practical introduction to data analysis in Python for students in the biosciences, covering key concepts, 
+tools, and learning resources for building a solid foundation in the field.
 
-To start, there are two very important considerations you should make. The first is to understand your purpose. 
-What exactly do you want to do with this knowledge? This only seems trivial. You only understand what you really 
-want after you learn more on the topic. In other words, you start from a general knowledge and then go to specifics.
-What is data science? Is it the same as big data? Is it fun? Does it require lots of equipment or software?
+Before getting started, there are two important considerations to keep in mind. The first is to understand your purpose. 
+What exactly do you want to achieve with this knowledge? This may seem like a simple question, but it is an important one. 
+You only understand what you really want to achieve after you learn more about the topic. In other words, you start from 
+a general knowledge and then go to specifics.
+What is data science? Is it the same as big data? Does it require lots of equipment or software?
 I would suggest in this case to start reading more about data science, career prospects and also to discuss it with
 colleagues. Don't loose your own purpose of sight while learning. What makes a good data scientist 
-is their focus. A bioinformatician, for instance, can be considered a data scientist. Their focus or domain knowledge
+is their focus. A bioinformatician, for instance, is a data scientist who focuses on analysis of biological data. Their focus or domain knowledge
 is biology. Although I see a lot of generalist approaches on posts about data science, I believe having focus is key 
 to being fullfilled and competent. Choose the area you want to focus and pursue this goal. 
-Some options of specializations are: biology, medicine, finance, etc. Although the methods overlap, domain knowledge is key.
+Some examples of specialized knowledge are: biology, medicine, finance, etc. Although the methods overlap, domain knowledge is key.
 
 <img border="0" src="https://github.com/waltercostamb/waltercostamb.github.io/blob/master/figures/data_science.jpg?raw=true" width="450" height="410" />  
 
