@@ -26,11 +26,10 @@ Some examples of specialized knowledge are: biology, medicine, finance, etc. Alt
 Data science. Credit: [Michael Barber](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
 
 The other important thing I want to mention is to understand the difference between data analysis and "big data". Although
-the two may seem the same at first glance, they are not. Data analysis is required for big data, but big data is not required 
-for data analysis. Data analysis involves programming, problem solving, statistical analysis and visualization. Big data 
-involves that and also other specific tools like Spark and Hadoop (which uses the MapReduce method). I am not a particular 
-fan of big data, since it feels to me more like handling tons on input than analysis. I have done a course in big data, but
-this is not my area of expertise, so I would advise you to talk to a specialist if you are interested in big data.
+the two may seem the same at first glance, they are not. Data analysis is required for big data, but big data is not necessarily
+required for data analysis. Data analysis involves programming, problem solving, statistical analysis and visualization. Big data 
+involves these topics and requires specific tools that handle large amounts of data such as Spark and Hadoop (which uses the MapReduce method). 
+Big Data is not my area of expertise and will not be a focus on this post.
 
 I did this [big data and statistik](https://www.alfatraining.de/gefoerderte-weiterbildung/berlinmitte/stadt/berlin/kurs/statistik/N/0/0/kombi/statistik-und-big-data/) 
 course from alfatraining (in German), which I found very informative. Summarizing the content of this course:
